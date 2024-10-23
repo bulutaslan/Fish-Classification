@@ -3,5 +3,5 @@ Bu proje, balık resimlerini analiz ederek yapay zeka tabanlı bir modelle tür 
 
 Proje İçeriği
 Model: Convolutional Neural Network (CNN) tabanlı bir model. <br>
-Veri Kümesi: Balık türlerini içeren bir açık veri seti kullanılır (https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset).
+Veri Kümesi: Balık türlerini içeren bir açık veri seti kullanılır (https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset). <br>
 Kütüphaneler: TensorFlow, Keras, OpenCV, NumPy, Matplotlib gibi popüler Python kütüphaneleri.
